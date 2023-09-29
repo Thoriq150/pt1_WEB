@@ -42,6 +42,7 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
+### Jawaban ----
 #### 1. tidak ada eror, karena tag nya telah dibuat dengan nama file pertemuan 1
 ![Screenshot (109)](https://github.com/Thoriq150/pt1_WEB/assets/115950790/dd959218-79c1-4267-9d20-7601b57d6574)
 
