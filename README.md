@@ -7,12 +7,12 @@
 ![Screenshot (90)](https://github.com/Thoriq150/pt1_WEB/assets/115950790/72187b68-3a9b-45c9-94ea-de741575570f)
 
 ### 1. Membuat Paragraf
-#### Buatlah 2 buah paragraf menggunakan<p>
+#### Buatlah 2 buah paragraf menggunakan`<p>``</p>`
 ![Screenshot (108)](https://github.com/Thoriq150/pt1_WEB/assets/115950790/3a39933e-e683-4300-b44b-c0c95cb804a2)
 #### tampilan browser
 ![Screenshot (90)](https://github.com/Thoriq150/pt1_WEB/assets/115950790/7b24f4be-6067-4b9c-98a5-0395cc6157c3)
 ### 2. Buat Judul
-#### Tambahkan judul di masing-masing paragraf pakai<h1>
+#### Tambahkan judul di masing-masing paragraf pakai`<h1>` dan `<h2>`
 ![Screenshot (94)](https://github.com/Thoriq150/pt1_WEB/assets/115950790/3b5074b0-cda0-43b3-8059-336f7011d6cd)
 #### tampilan browser
 ![Screenshot (92)](https://github.com/Thoriq150/pt1_WEB/assets/115950790/e9d7f6ac-5111-429a-8fde-a911d17a9712)
