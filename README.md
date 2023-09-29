@@ -42,23 +42,23 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
-1. tidak ada eror, karena tag nya telah dibuat dengan nama file pertemuan 1
+#### 1. tidak ada eror, karena tag nya telah dibuat dengan nama file pertemuan 1
 ![Screenshot (109)](https://github.com/Thoriq150/pt1_WEB/assets/115950790/dd959218-79c1-4267-9d20-7601b57d6574)
 
-2. `<p>` (paragraph) adalah elemen untuk membuat paragraf baru. Ini menambahkan jarak atas dan bawah elemen,
+#### 2. `<p>` (paragraph) adalah elemen untuk membuat paragraf baru. Ini menambahkan jarak atas dan bawah elemen,
 menciptakan batas paragraf. Sebuah paragraf baru dimulai setelah elemen `<p>`.
 `<br>` (break) adalah elemen untuk melakukan pemisahan baris (line break). Ini hanya memindahkan teks ke baris 
 baru dalam elemen yang sama, tanpa menciptakan paragraf baru.
 
-3. Perbedaan Atribut `title` dan `alt` pada `<img>`:
+#### 3. Perbedaan Atribut `title` dan `alt` pada `<img>`:
 Atribut `title` digunakan untuk menyediakan informasi tambahan saat pengguna mengarahkan kursor ke gambar. Informasi ini muncul sebagai tooltip.
 Atribut `alt` adalah teks alternatif yang akan ditampilkan jika gambar tidak dapat dimuat. Ini juga penting untuk aksesibilitas, membantu
 orang dengan keterbatasan penglihatan atau jika gambar gagal dimuat.
 
-4. Atribut `width` dan `height` untuk Ukuran Gambar:
+#### 4. Atribut `width` dan `height` untuk Ukuran Gambar:
 Agar tampilan gambar proporsional, sebaiknya minimal salah satu atribut (width atau height) diisi. Jika hanya satu diisi, browser akan mengukur atribut yang tidak diisi secara proporsional berdasarkan atribut yang diisi. Mengisi keduanya dapat mempertahankan proporsi asli gambar, namun, jika proporsi asli gambar tidak cocok dengan proporsi yang diinginkan, gambar dapat terlihat terdistorsi.
 
-5. Atribut `target` pada Link:
+#### 5. Atribut `target` pada Link:
 Atribut `target` pada link mengontrol bagaimana tautan dibuka saat diklik:
 `_blank`: Membuka tautan di jendela atau tab baru.
 `_self`: Membuka tautan di jendela atau tab yang sama (default).
